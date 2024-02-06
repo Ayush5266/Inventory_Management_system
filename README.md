@@ -1,6 +1,6 @@
 # Inventory Management System
 
-![Inventory Management System](https://github.com/Ayush5266/Inventory_Management_system/blob/main/Resources/9044563_inventory_management_icon.png)
+![Inventory Management System](https://github.com/Ayush5266/Inventory_Management_system/blob/main/Resources/inventory%20(1).png)
 
 ## Overview
 
@@ -21,9 +21,4 @@ The Inventory Management System is a desktop application developed using C#.NET 
 - **Backend:** MS-SQL Server
 - **IDE:** Visual Studio
 
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/inventory-management-system.git
-   cd inventory-management-system
+######################################################
