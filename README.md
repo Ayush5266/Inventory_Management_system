@@ -1,6 +1,6 @@
 # Inventory Management System
 
-![Inventory Management System](link_to_project_image.png)
+![Inventory Management System](https://github.com/Ayush5266/Inventory_Management_system/blob/main/Resources/9044563_inventory_management_icon.png)
 
 ## Overview
 
